@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="5b574ce1-2f8c-4a9f-8728-a77644dc3cad" name="digitaldelirium">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="digitaldelirium" />
     <option name="AUTH_TYPE" value="BASIC" />
